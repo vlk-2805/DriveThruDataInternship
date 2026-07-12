@@ -22,8 +22,8 @@ every pipeline stage inspectable through a Gradio dashboard.
 6. Exposes all of the above — including per-stage logs — in a Gradio UI.
 
 ## Architecture / pipeline
+<img width="1890" height="1008" alt="image" src="https://github.com/user-attachments/assets/804795f7-a4dc-4b5e-8114-4d2b39962c87" />
 
-![Uploading image.png…]()
 
 
 ## Components
