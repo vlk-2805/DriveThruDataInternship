@@ -5,7 +5,7 @@ This repository contains the work, prototypes, research, and proof-of-concepts I
 The projects primarily focus on building intelligent AI systems using Large Language Models (LLMs), Agentic AI, Context Engineering, OCR, RAG and Visual Language Models (LMs),.
 
 > 📄 A detailed presentation describing the complete internship work is included in this repository.
-
+> Individual README files are present for each of the directory detailing on the projects in them.
 ---
 
 ## Areas Explored
@@ -114,9 +114,8 @@ Researched and implemented concepts around:
 ```
 /
 ├── PPT/                     # Internship presentation
-├── Handwriting_OCR/
+├── Handwriting_OCR with Agentic AI/
     ├── MCP/
-├── Agentic_AI/
 ├── Context_Engineering/
 ├── Patient_Passbook/
 ├── Document_Intelligence/
