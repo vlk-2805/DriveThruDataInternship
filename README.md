@@ -2,7 +2,7 @@
 
 This repository contains the work, prototypes, research, and proof-of-concepts I developed during my AI Software Engineering internship at **DriveThruData**.
 
-The projects primarily focus on building intelligent AI systems using Large Language Models (LLMs), Agentic AI, Context Engineering, OCR, RAG and Visual Language Models (LMs).
+The projects primarily focus on building intelligent AI systems using Large Language Models (LLMs), Agentic AI, Context Engineering, OCR, RAG and Visual Language Models (VLMs).
 
 > 📄 A detailed presentation describing the complete internship work is included in this repository.
 
