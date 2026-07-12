@@ -115,8 +115,8 @@ Researched and implemented concepts around:
 /
 ├── PPT/                     # Internship presentation
 ├── Handwriting_OCR/
+    ├── MCP/
 ├── Agentic_AI/
-├── MCP/
 ├── Context_Engineering/
 ├── Patient_Passbook/
 ├── Document_Intelligence/
