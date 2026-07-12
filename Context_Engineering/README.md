@@ -65,6 +65,7 @@ response, and analytics such as compression ratio). A Gradio UI
 (`lifecycle_demo`) surfaces each stage's output as its own tab.
 
 ## Notebook 2 — Configurable architecture (`ContextEngineeringFramework_GPU_configurable_fixed.ipynb`)
+<img width="1853" height="966" alt="image" src="https://github.com/user-attachments/assets/f0e2e467-e96e-49ce-bfd3-23eea3691f28" />
 
 Implements a fuller reference architecture, extending the core pipeline with:
 
