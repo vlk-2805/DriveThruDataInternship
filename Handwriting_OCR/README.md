@@ -5,7 +5,7 @@ extracts structured drug information, cross-checks it against live medical
 data sources, and answers free-text questions about the prescription using a
 tool-using ReAct agent. This is the baseline pipeline later refactored into an
 MCP (Model Context Protocol) architecture in
-[`handwritingocr_mcp.ipynb`](./README_handwritingocr_mcp.md).
+[`handwritingocr_mcp.ipynb`](./MCP/README.md).
 
 ## Architecture
 
