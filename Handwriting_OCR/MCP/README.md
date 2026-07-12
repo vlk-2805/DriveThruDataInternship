@@ -1,7 +1,7 @@
 # Medical Prescription OCR + MCP-Based Agentic RAG
 
 Refactors a handwriting-OCR + medical RAG pipeline (see the companion
-[`handwritingocr_ner_rag.ipynb`](./README_handwritingocr_ner_rag.md)) into a proper
+[`handwritingocr+ner+rag.ipynb`](../README.md)) into a proper
 **Model Context Protocol (MCP)** architecture. All tool calls that the reasoning
 agent makes (drug lookups, knowledge-base search, OpenFDA/Wikipedia/RxNorm
 fetches) now travel through MCP client/server messages instead of direct Python
