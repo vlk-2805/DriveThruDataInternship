@@ -102,15 +102,13 @@ Researched and implemented concepts around:
 
 ## Repository Structure
 
-/
-├── [`PPT/`](./PPT/Intern_work.pdf)                     # Internship presentation
-├── [`Handwriting_OCR with Agentic AI/`](./Handwriting_OCR/README.md)
-    ├── [`MCP`](./Handwriting_OCR/MCP/README.md)
-├── [`Context_Engineering`](./Context_Engineering)
-├── [`Patient_Passbook`](./Patient_Passbook)
-├── [`Automation`](./Automation)
-└── README.md
-
+- [`PPT/`](./PPT/Intern_work.pdf) — Internship presentation
+- [`Handwriting_OCR/`](./Handwriting_OCR/README.md) — Handwriting OCR with Agentic AI
+  - [`MCP/`](./Handwriting_OCR/MCP/README.md)
+- [`Context_Engineering/`](./Context_Engineering) 
+- [`Patient_Passbook/`](./Patient_Passbook)
+- [`Automation/`](./Automation)
+- [`README.md`](./README.md)
 
 *(Structure may evolve as additional work is added.)*
 
