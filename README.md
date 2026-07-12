@@ -102,7 +102,6 @@ Researched and implemented concepts around:
 
 ## Repository Structure
 
-```
 /
 ├── [`PPT/`](./PPT/Intern_work.pdf)                     # Internship presentation
 ├── [`Handwriting_OCR with Agentic AI/`](./Handwriting_OCR/README.md)
@@ -111,7 +110,7 @@ Researched and implemented concepts around:
 ├── [`Patient_Passbook`](./Patient_Passbook)
 ├── [`Automation`](./Automation)
 └── README.md
-```
+
 
 *(Structure may evolve as additional work is added.)*
 
