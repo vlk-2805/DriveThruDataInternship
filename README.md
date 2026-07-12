@@ -104,12 +104,12 @@ Researched and implemented concepts around:
 
 ```
 /
-├── PPT/                     # Internship presentation
-├── Handwriting_OCR with Agentic AI/
-    ├── MCP/
-├── Context_Engineering/
-├── Patient_Passbook/
-├── Automation/
+├── [`PPT/`](./PPT/Intern_work.pdf)                     # Internship presentation
+├── [`Handwriting_OCR with Agentic AI/`](./Handwriting_OCR/README.md)
+    ├── [`MCP`](./Handwriting_OCR/MCP/README.md)
+├── [`Context_Engineering`](./Context_Engineering)
+├── [`Patient_Passbook`](./Patient_Passbook)
+├── [`Automation`](./Automation)
 └── README.md
 ```
 
