@@ -2,7 +2,7 @@
 
 This repository contains the work, prototypes, research, and proof-of-concepts I developed during my AI Software Engineering internship at **DriveThruData**.
 
-The projects primarily focus on building intelligent AI systems using Large Language Models (LLMs), Agentic AI, Context Engineering, OCR, RAG and Visual Language Models (LMs),.
+The projects primarily focus on building intelligent AI systems using Large Language Models (LLMs), Agentic AI, Context Engineering, OCR, RAG and Visual Language Models (LMs).
 
 > 📄 A detailed presentation describing the complete internship work is included in this repository.
 
@@ -18,7 +18,6 @@ The projects primarily focus on building intelligent AI systems using Large Lang
 - Named Entity Recognition(NER)
 - Model Context Protocol (MCP)
 - Retrieval-Augmented(RAG based) AI Systems
-- Document Parsing & Information Extraction
 - Medical AI Applications
 - Patient Handbook Generation System
 - Conceptual Exploration of Robotic Process Automation (RPA), Agentic Process Automation (APA) & Harness Engineering
@@ -61,15 +60,6 @@ Implemented an MCP-based architecture demonstrating:
 - Protocol-based tool execution
 - Modular AI agents
 - Scalable multi-agent design
-
----
-
-### Document Intelligence
-Explored multiple document processing frameworks including:
-- OCR
-- Document parsing
-- Structured information extraction
-- Medical document processing
 
 ---
 
@@ -119,7 +109,6 @@ Researched and implemented concepts around:
     ├── MCP/
 ├── Context_Engineering/
 ├── Patient_Passbook/
-├── Document_Intelligence/
 ├── Automation/
 └── README.md
 ```
